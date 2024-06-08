@@ -10,5 +10,15 @@
   },
   "devDependencies": {
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "bootstrap": "^5.3.3",
+    "firebase": "^10.12.2",
+    "react-bootstrap": "^2.10.2",
+    "react-google-button": "^0.8.0",
+    "react-router-dom": "^6.23.1",
+    "vue-router": "^3.6.5",
+    "web-vitals": "^4.0.1"
   }
 }
